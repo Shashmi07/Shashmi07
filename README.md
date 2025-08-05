@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shashmi Amadi</h1>
+<h1 align="center">Hi 👋, I'm Amadi</h1>
 <h3 align="center">IT Student | Institute of Technology, University of Moratuwa | Web Development & QA Enthusiast</h3>
 
 - 🌱 I’m currently learning **React**
